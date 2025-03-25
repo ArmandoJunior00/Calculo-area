@@ -1,9 +1,8 @@
-# Mensagens-Marketing
+# Calculo Area
 
-1 - Escreva um código para enviar mensagens de marketing, para isso você deve ter a possibilidade de enviar a mesma mensagem para serviços diferentes, esses serviços devem ter um método para receber a mensagem como parâmetro, os serviços que devem estar disponíveis são:
+ Escreva um código onde seja possível calcular a área de uma figura geométrica, todas devem ter um método que retorne esse valor, as formas geométricas disponiveis devem ser as seguintes:
 
-SMS;
-E-mail;
-Redes Sociais;
-WhatsApp;
+Quadrado: possui o valor dos seus lados;
+Retângulo: possui os valores de base e altura;
+Circulor: possui o atributo raio.
 
